@@ -1,4 +1,4 @@
-pyrofork
+pyrogram
 tgcrypto==1.2.2
 
 pyromod==1.5
